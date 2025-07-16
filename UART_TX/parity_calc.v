@@ -40,5 +40,3 @@ endmodule
 // 1 - avoid latches
 
 // 2 - data_valid is asserted for only one clk cycle
-
-// what to do??
